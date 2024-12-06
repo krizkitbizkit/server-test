@@ -1,2 +1,2 @@
-eula=false
+eula=true
 
